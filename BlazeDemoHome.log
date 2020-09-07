@@ -1,0 +1,8 @@
+2020-09-08 01:34:37,899  INFO [main] BlazeDemoHomeTest:69 - -----maximizing the browser window-----
+2020-09-08 01:34:40,032  INFO [main] BlazeDemoHomeTest:71 - Navigated to Blaze Demo Website
+2020-09-08 01:34:42,720  INFO [main] Log:29 - waiting for specified element to display
+2020-09-08 01:34:42,815  INFO [main] Log:29 - waiting for specified element to display
+2020-09-08 01:34:42,966  INFO [main] Log:29 - waiting for specified element to display
+2020-09-08 01:34:43,800  INFO [main] Log:29 - waiting for specified element to display
+2020-09-08 01:34:44,374  INFO [main] Log:29 - waiting for specified element to display
+2020-09-08 01:34:45,035  INFO [main] BlazeDemoHomeTest:77 - -----closing down browser window-----
